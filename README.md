@@ -2,6 +2,8 @@
 
 The provided dataset offers a comprehensive collection of attributes and statistics pertaining to football players, encompassing various aspects of their personal details, physical attributes, playing styles, performance metrics, and market valuation. This dataset serves as a valuable resource for conducting detailed analyses aimed at understanding player profiles, assessing performance trends, evaluating market dynamics, and deriving insights relevant to the football industry as a whole.
 
+## [Dataset_link](https://www.kaggle.com/datasets/maso0dahmed/football-players-data)
+
 ## Info of dataset:
 
 - 17953 Rows
